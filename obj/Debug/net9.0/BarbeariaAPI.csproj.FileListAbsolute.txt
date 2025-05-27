@@ -1,0 +1,14 @@
+C:\Users\gusta\BarbeariaAPi\bin\Debug\net9.0\BarbeariaAPI.exe
+C:\Users\gusta\BarbeariaAPi\bin\Debug\net9.0\BarbeariaAPI.deps.json
+C:\Users\gusta\BarbeariaAPi\bin\Debug\net9.0\BarbeariaAPI.runtimeconfig.json
+C:\Users\gusta\BarbeariaAPi\bin\Debug\net9.0\BarbeariaAPI.dll
+C:\Users\gusta\BarbeariaAPi\bin\Debug\net9.0\BarbeariaAPI.pdb
+C:\Users\gusta\BarbeariaAPi\obj\Debug\net9.0\BarbeariaAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\BarbeariaAPi\obj\Debug\net9.0\BarbeariaAPI.AssemblyInfoInputs.cache
+C:\Users\gusta\BarbeariaAPi\obj\Debug\net9.0\BarbeariaAPI.AssemblyInfo.cs
+C:\Users\gusta\BarbeariaAPi\obj\Debug\net9.0\BarbeariaAPI.csproj.CoreCompileInputs.cache
+C:\Users\gusta\BarbeariaAPi\obj\Debug\net9.0\BarbeariaAPI.dll
+C:\Users\gusta\BarbeariaAPi\obj\Debug\net9.0\refint\BarbeariaAPI.dll
+C:\Users\gusta\BarbeariaAPi\obj\Debug\net9.0\BarbeariaAPI.pdb
+C:\Users\gusta\BarbeariaAPi\obj\Debug\net9.0\BarbeariaAPI.genruntimeconfig.cache
+C:\Users\gusta\BarbeariaAPi\obj\Debug\net9.0\ref\BarbeariaAPI.dll
